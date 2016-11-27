@@ -10,14 +10,6 @@ var PORT = (process.env.PORT || 5000),
 var app = express();
 app.use(bodyParser.json());
 
-app.set('port', PORT);
-
-app.use(express.static(__dirname + '/public'));
-
-// views is directory for all template files
-app.set('views', __dirname + '/views');
-app.set('view engine', 'ejs');
-
 function replyBack(token, msg) {
     // multiline message
     if(msg !== undefined) {
