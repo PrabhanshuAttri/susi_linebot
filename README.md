@@ -1,4 +1,4 @@
-# AskSusi Line MEssenger Bot
+# AskSusi Line Messenger Bot
 This is the Line Messenger bot for [AskSusi](https://github.com/fossasia/susi_server).
 
 ## Getting Started

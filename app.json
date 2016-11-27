@@ -1,0 +1,22 @@
+{
+  "name": "Susi LineBot",
+  "description": "Line Messenger Bot for Susi (asksusi.com)",
+  "repository": "https://github.com/PrabhanshuAttri/susi_linebot",
+  "keywords": [
+      "chatbot",
+      "Ask Susi",
+      "Susi",
+      "line messanger"
+  ],
+  "image": "heroku/nodejs",
+  "env": {
+      "AUTH_TOKEN_LINE": {
+          "description": "LINE Messenger Token",
+          "generator": "secret"
+      },
+      "WEBHOOK_LINE": {
+          "description": "Webhook for LINE Messenger",
+          "value": "webhook_line"
+      }
+  }
+}
