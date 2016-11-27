@@ -1,6 +1,6 @@
 {
-  "name": "Susi LineBot",
-  "version": "0.1",
+  "name": "susi_linebot",
+  "version": "0.1.1",
   "description": "Line Messenger Bot for Susi (asksusi.com)",
   "engines": {
     "node": "5.9.1"
