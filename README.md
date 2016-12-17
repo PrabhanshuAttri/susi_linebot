@@ -5,7 +5,7 @@ This is the Line Messenger bot for [AskSusi](https://github.com/fossasia/susi_se
 
 To set up your own Line Messenger for Susi, please check out the [Getting Started Guide](/docs/getting_started.md).
 
-## Technology Stack
+### Technology Stack
 
 ```node.js``` and ```Express```.
 
