@@ -1,7 +1,7 @@
 # AskSusi Line Messenger Bot
 This is the Line Messenger bot for [AskSusi](https://github.com/fossasia/susi_server).
 
-## Getting Started
+### Getting Started
 
 To set up your own Line Messenger for Susi, please check out the [Getting Started Guide](/docs/getting_started.md).
 
@@ -9,6 +9,6 @@ To set up your own Line Messenger for Susi, please check out the [Getting Starte
 
 ```node.js``` and ```Express```.
 
-## Branch Policy
+### Branch Policy
 
 The default branch is ```development```, so make sure you contribute only on this branch.
